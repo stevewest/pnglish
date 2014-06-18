@@ -1,0 +1,13 @@
+== Overview ==
+PNGlish is designed to be an aid to programming by simplifying the syntax into a more "normal" English sentence. It was created by [[User:Uru Wolf|Steven D West]], basically because he was bored and had nothing better to do, in the end of May. The first version was released in beta on the 31st May 2007. There are no official version numbers, things just get added with out much forward planning.
+
+Currently PNGlish is very restrictive in its function as only a handful of commands are supported. There are plans to add more commands at a later date.
+
+== The compiler ==
+The [[compiler]] is [[PHP]] based and therefore is only available on-line. The plus side of this is that no extra software is needed for the user to use the compiler. The compiler takes the user's input then changes it to PHP code, but otherwise does not run any actual code.. At the moment PHP is the only language that PNGlish will compile into but there are plans to add other languages at a later date.
+
+== External links ==
+[http://ewolfuk.com/PNGlish PNGlish on-line compiler and help manual]
+[http://ewolfuk.com/PNGlish/help PNGlish standalone help manual]
+
+--~~~~

@@ -1,0 +1,70 @@
+/**
+ * This work is licenced under the Creative Commons
+ * Attribution-Non-Commercial-Share Alike 2.0 UK: England & Wales License. To
+ * view a copy of this licence, visit
+ * http://creativecommons.org/licenses/by-nc-sa/2.0/uk/ or send a letter to
+ * Creative Commons, 171 Second Street, Suite 300, San Francisco,
+ * California 94105, USA.
+ *
+ * @copyright Steve "Uru" West 2010
+ * @author Steve "Uru" West
+ * @version 2010-01-06
+ */
+
+body.tight{
+    margin: 0px 0px 0px 0px;
+    font-size: 9px;
+}
+img{
+    border-width: 0px 0px 0px 0px;
+}
+th{
+    background-color: #88c1d2;
+}
+td.links{
+    background-color: #88c1d2;
+    font-size: 10.5px;
+}
+td.ex{
+    background-color: #8fe48b;
+    height: 10px;
+}
+td.ex_title{
+    background-color: #95ffaf;
+    height: 10px;
+}
+a:link{color: #10672d;}
+a:visited{color: #d6dd42;}
+a:hover{color: #f51f1f;}
+iframe{
+    border-width: 0px 0px 0px 0px;
+}
+span.red{
+    color: #FF0000;
+    text-decoration: none;
+}
+.small{
+    font-size: 9px;
+}
+
+div.scroll{
+    overflow:auto;
+    height: 550px;
+    background-color: #f1efef;
+}
+
+
+#editContent{
+    margin-left:30px;
+    padding-left:3px;
+    width:600px;
+    height:200px;
+    border:1px solid #666;
+}
+.textAreaWithLines{
+    display:block;
+    margin:0;
+    border:1px solid #666;
+    border-right:none;
+    background:#aaa;
+} 
